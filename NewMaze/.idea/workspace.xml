@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="121af14e-b514-45ea-8055-87bbf95bfbf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/MazeGenerator$DIR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/MazeGenerator$DIR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/MazeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/MazeGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TestMaze.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/MazeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maze.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/untitled104/com/company/Solver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/company/Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled104/com/company/MazeGenerator$DIR.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled104/com/company/MazeGenerator$DIR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled104/com/company/MazeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/untitled104/com/company/MazeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/untitled104/com/company/TestMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/TestMaze.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +35,31 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="vahek" />
+                    <option name="lastUsedInstant" value="1639664665" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1639664570" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="22MRJQ792aFizkKKac0JFL0ouHr" />
   <component name="ProjectView">
